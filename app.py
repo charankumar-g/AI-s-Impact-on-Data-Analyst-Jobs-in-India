@@ -21,7 +21,7 @@ st.markdown("""
 
 # ---- IMAGE DISPLAY ----
 st.header("📸 AI Impact Dashboard")
-st.image("assets/ai_impact_dashboard.png", caption="AI Impact on Data Analyst Jobs in India", use_column_width=True)
+st.image("assets/ai_impact_dashboard.png", caption="AI Impact on Data Analyst Jobs in India", use_container_width=True)
 
 # ---- DATASET INFO ----
 st.header("📚 Dataset Info")
