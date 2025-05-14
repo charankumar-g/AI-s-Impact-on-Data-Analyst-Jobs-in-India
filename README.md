@@ -20,7 +20,7 @@ This project explores how **Artificial Intelligence (AI)** is reshaping the job 
 
 ### ✅ Source
 
-* `LinkedIn_India_DataAnalyst_500_AI_Impact.csv`
+* `LinkedIn_India_DataAnalyst_500_AI_Impact.xlsx`
 * Cleaned and prepared manually
 * Duplicate entries removed, missing values handled
 
