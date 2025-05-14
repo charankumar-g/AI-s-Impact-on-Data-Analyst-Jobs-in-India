@@ -32,13 +32,13 @@ This project explores how **Artificial Intelligence (AI)** is reshaping the job 
 
 ---
 
-## 📊 Key Insights
+### 📊 Key Insights
 
-✅ **AI-related roles offer higher salaries** for similar experience levels
-✅ **Python, Data Modeling, BigQuery, Tableau, and Snowflake** are top skills
-✅ High demand observed in **Kolkata, Ahmedabad, Hyderabad**
-✅ **Positive sentiment** dominates perceptions of AI’s impact
-✅ Job listings are **evenly split** between AI and Non-AI roles
+✅ AI-related roles offer higher salaries for similar experience levels
+✅ Python, Data Modeling, BigQuery, Tableau, and Snowflake are top skills
+✅ High demand observed in Kolkata, Ahmedabad, Hyderabad
+✅ Positive sentiment dominates perceptions of AI’s impact
+✅ Job listings are evenly split between AI and Non-AI roles
 
 ---
 
