@@ -1,18 +1,18 @@
-# 🤖 AI’s Impact on Data Analyst Jobs in India
+# 🤖 AI’s Impact on the Data Analyst Job Market (India)
 
 ## 🚀 Project Overview
 
-This project explores how **Artificial Intelligence (AI)** is reshaping the job market for Data Analysts in India. Using **cleaned demo data** and interactive Tableau dashboards, we examine hiring trends, required skills, salary comparisons, and sentiment analysis related to AI’s growing influence.
+This project analyzes how **Artificial Intelligence (AI)** is transforming the data analyst job landscape in India. By using a **cleaned demo dataset** and building an **interactive Tableau dashboard**, we uncover trends in hiring, skill demand, salary patterns, and the overall sentiment toward AI’s influence in this field.
 
-🔍 Focus Areas:
+🔍 **Focus Areas**:
 
-* Demand across cities
-* Skills in demand
-* AI vs Non-AI job roles
-* Salary vs experience comparisons
-* Sentiment around AI’s impact on careers
+- Demand across top Indian cities  
+- Skills required for data analyst roles  
+- AI vs Non-AI job comparisons  
+- Salary vs experience patterns  
+- Sentiment toward AI in the job market
 
-> **Note:** This is a **demo project** using AI-generated/cleaned sample data for learning purposes.
+> 💡 **Note:** This is a **demo project** using cleaned and curated data for educational and portfolio purposes.
 
 ---
 
@@ -20,81 +20,86 @@ This project explores how **Artificial Intelligence (AI)** is reshaping the job 
 
 ### ✅ Source
 
-* `LinkedIn_India_DataAnalyst_500_AI_Impact.xlsx`
-* Cleaned and prepared manually
-* Duplicate entries removed, missing values handled
+- `LinkedIn_India_DataAnalyst_500_AI_Impact.xlsx`  
+- Data collected and cleaned manually  
+- Duplicate entries removed, missing values handled
 
 ### 🧾 Key Columns
 
-* Company, Location, Job Title, Required Skills
-* Experience Level, Estimated Salary (LPA)
-* AI Impact Sentiment, Is AI Related (Yes/No)
+- Company, Location, Job Title, Required Skills  
+- Experience Level, Estimated Salary (LPA)  
+- AI Impact Sentiment, Is AI Related (Yes/No)
 
 ---
 
-### 📊 Key Insights
+## 📊 Key Insights
 
-✅ AI-related roles offer higher salaries for similar experience levels
-✅ Python, Data Modeling, BigQuery, Tableau, and Snowflake are top skills
-✅ High demand observed in Kolkata, Ahmedabad, Hyderabad
-✅ Positive sentiment dominates perceptions of AI’s impact
-✅ Job listings are evenly split between AI and Non-AI roles
+✅ **AI-related roles offer higher salaries** for similar experience levels  
+✅ In-demand skills: **Python, Data Modeling, BigQuery, Tableau, Snowflake**  
+✅ High job demand in cities like **Kolkata, Ahmedabad, Hyderabad**  
+✅ **Positive sentiment** dominates AI’s perceived job market impact  
+✅ **Balanced split** between AI and Non-AI job roles  
 
 ---
 
 ## 📈 Visualizations
 
-* 📌 **Top Hiring Companies**
-* 🌍 **City-wise Hiring Demand**
-* 💼 **Top Required Skills**
-* 😊 **AI Sentiment Analysis**
-* 💰 **Salary vs Experience: AI vs Non-AI**
-* 📊 **AI vs Non-AI Role Distribution**
+| Metric                       | Insight Example                                       |
+|-----------------------------|--------------------------------------------------------|
+| 🏢 Top Hiring Companies      | Genpact, Tiger Analytics, Publicis Sapient, etc.       |
+| 📍 Location-Based Demand     | Highest in Kolkata, Ahmedabad, Hyderabad              |
+| 💼 Top Skills                | Python, BigQuery, Tableau, Snowflake, R               |
+| 📊 AI Impact on Sentiment    | Mostly **Positive**, followed by Neutral and Negative |
+| 📉 Salary vs Experience      | AI roles offer more pay for same experience           |
+| 🔄 AI vs Non-AI Distribution | ~48.6% AI Jobs vs ~51.4% Non-AI Jobs                 |
+
+---
+
+## 📌 Dashboard Preview
+
+📊 **AI’s Impact Dashboard** — Tableau Visualizations  
+![AI Dashboard](https://user-images.githubusercontent.com/your-image-path/sample_dashboard.png) *(Replace with screenshot if hosting on GitHub)*
+
+👉 **[View Live Dashboard on Tableau Public](https://public.tableau.com/views/AIsImpactonDataAnalystJobsinIndia/AIImpact-DataAnalystJobMarketIndia)**  
+*(Interactive filters, drill-down charts, and more)*
 
 ---
 
 ## 🛠️ Tools & Tech Stack
 
-* **Tableau Public** – Dashboarding & storytelling
-* **Microsoft Excel** – Data cleaning & formatting
-* Font: *Segoe UI*, Background: *#f9f9f9* (clean theme)
-
----
-
-## 💻 How to View
-
-👉 **[View Dashboard on Tableau Public](https://public.tableau.com/views/AIsImpactonDataAnalystJobsinIndia/AIImpact-DataAnalystJobMarketIndia)**
-*(Interactive charts, filters, and summaries available)*
+- 📊 **Tableau Public** – For dashboards & visual storytelling  
+- 🧹 **Microsoft Excel** – Data cleaning & preprocessing  
+- 📝 Font: *Segoe UI*, Theme: Light Grey (`#f9f9f9`)  
 
 ---
 
 ## 🧾 Dashboard Tabs
 
-* 📊 AI Impact Overview
-* 🏢 Top Hiring Companies
-* 📍 Location-Based Demand
-* 🧠 Top Skills for Data Analysts
-* 🔄 AI vs Non-AI Role Comparison
-* 📈 AI vs Non-AI Job Count %
+- AI Impact on Job Market  
+- Top Hiring Companies  
+- Location-Based Demand  
+- Top Skills for Data Analysts  
+- AI vs Non-AI Jobs  
+- AI vs Non-AI Job Count %
 
 ---
 
 ## 💡 Future Scope
 
-* ⏱️ Add time-series trend analysis
-* 🔗 Integrate with LinkedIn/Naukri APIs for real-time data
-* 🧪 Explore advanced clustering for salary-skill patterns
+- ⏱️ Add time-series trend visualizations  
+- 🔗 Scrape live data from LinkedIn or Naukri via APIs  
+- 🧠 Skill-salary clustering using advanced analytics  
 
 ---
 
 ## 📢 Contact
 
-👨‍💻 **Author:** Charan Kumar G
-📬 **Email:** [charankumar.career@gmail.com](mailto:charankumar.career@gmail.com)
+👨‍💻 **Author:** Charan Kumar G  
+📬 **Email:** [charankumar.career@gmail.com](mailto:charankumar.career@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/charankumar-g](https://linkedin.com/in/charankumar-g)
 
 ---
 
-⭐ *If you liked this project, don’t forget to give it a **star**!* ⭐
+⭐ *If you liked this project, please consider giving it a **star** on GitHub!* ⭐
 
 ---
